@@ -1,0 +1,46 @@
+test git.
+
+rashm@DESKTOP-9PU29N6 MINGW64 ~
+$ pwd
+/c/Users/rashm
+
+rashm@DESKTOP-9PU29N6 MINGW64 ~
+$ cd../..
+bash: cd../..: No such file or directory
+
+rashm@DESKTOP-9PU29N6 MINGW64 ~
+$ cd D:\02_Study\1_MS\1_MIS_at_UNO\git
+bash: cd: D:02_Study1_MS1_MIS_at_UNOgit: No such file or directory
+
+rashm@DESKTOP-9PU29N6 MINGW64 ~
+$ cd d:/
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d
+$ cd 02_Study/
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study
+$ cd D:\02_Study\1_MS\1_MIS_at_UNO\git
+bash: cd: D:02_Study1_MS1_MIS_at_UNOgit: No such file or directory
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study
+$ cd 1_MS\1_MIS_at_UNO\git
+bash: cd: 1_MS1_MIS_at_UNOgit: No such file or directory
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study
+$ cd 1_MS
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study/1_MS
+$ cd 1_MIS_at_UNO
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study/1_MS/1_MIS_at_UNO
+$ cd git
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study/1_MS/1_MIS_at_UNO/git
+$ git config --global user.name "amiguhaamin"
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study/1_MS/1_MIS_at_UNO/git
+$ git config --global user.email career.rashmikguhaamin@gmail.com
+
+rashm@DESKTOP-9PU29N6 MINGW64 /d/02_Study/1_MS/1_MIS_at_UNO/git
+$
+
